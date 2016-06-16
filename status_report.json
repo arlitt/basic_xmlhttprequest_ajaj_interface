@@ -1,0 +1,8 @@
+{
+	"things":[
+        {"thing": "Checking for paper on WikiSource", "status_of_thing": "Paper is not yet on WikiSource"},
+        {"thing": "Checking for paper on JATS", "status_of_thing": "Paper is available on JATS"},
+        {"thing": "Checking licensing of paper", "status_of_thing": "License is open. Uploading paper."},
+        {"thing": "Uploading text and images", "status_of_thing": "Images and text have been uploaded."}
+    ]
+}
